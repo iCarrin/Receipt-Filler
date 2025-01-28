@@ -2,7 +2,8 @@ import dawn
 
 # dawn.add_item("GV WAFFLE FRIES", "078742090131", "waffle fries")
 #it's going to store reciptes and connect what I type (gibberish) with what I want (real stuff)
-dawn.add_items()
+dawn.add_receipt()
+dawn.show_all()
 #store every receipt 
     #store, date, amount, taxes, item count
 #different database sotres every item ever. 
