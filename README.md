@@ -4,7 +4,7 @@ This is an attempt to get the grasp of using an integrated database.
 Using SQLite I made a simple receipt tracker. One thing I have a hard time with is remembering what the hieroglyphics on a receipt actually mean. So I made this application to not only store the receipts I have but to also store my own descriptions of what ever CHCLV ORANGE PEEL DA and other such codes mean. Right now the program is fully manual. You'd have to type everything in, but in the future perhaps you can scan the receipts can feed that in instead.
 
 
-[Software Demo Video](http://youtube.link.goes.here) The  video will come once the program is more operational  
+[Software Demo Video](https://youtu.be/SWHXwMk3yEg)  
 
 # Relational Database
 
@@ -17,9 +17,9 @@ I used just simple python and the splite3 library
 
 # Useful Websites
 
-- [SQLite Databases With Python - Full Course](https://www.youtube.com/watch?v=byHcYRpMgI4&t=6s)
-- [ChatGPT](https://chatgpt.com/)
 - [SQLITE Tutorial](https://www.sqlitetutorial.net/)
+- [ChatGPT](https://chatgpt.com/)
+- [SQLite Databases With Python - Full Course](https://www.youtube.com/watch?v=byHcYRpMgI4&t=6s)
 
 # Future Work
 
